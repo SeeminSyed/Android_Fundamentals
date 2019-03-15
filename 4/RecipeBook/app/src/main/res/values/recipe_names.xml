@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recipe_names">
+        <item>recipe 0</item>
+        <item>recipe 1</item>
+        <item>recipe 2</item>
+        <item>recipe 3</item>
+        <item>recipe 4</item>
+    </string-array>
+    <string-array name="recipe_desc">
+        <item>recipe 0 description</item>
+        <item>recipe 1 description</item>
+        <item>recipe 2 description</item>
+        <item>recipe 3 description</item>
+        <item>recipe 4 description</item>
+    </string-array>
+    <string-array name="recipe_long_desc">
+        <item>recipe 0 description "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit…"</item>
+        <item>recipe 1 description Phasellus iaculis quam nunc, ut bibendum mauris dapibus non. Etiam lorem velit, finibus sagittis commodo non, efficitur eget urna. Curabitur commodo ligula eget tortor lacinia mattis. Nunc volutpat nisl quis leo facilisis, at elementum est consectetur. Ut pharetra elit et lorem facilisis, eu cursus odio finibus. Ut sit amet cursus turpis, vehicula fringilla libero. Sed sit amet varius elit. Ut vitae urna in sapien tristique eleifend. Nunc nec tellus blandit, sollicitudin urna et, iaculis ex. Cras fermentum quam nisi, ut commodo lectus bibendum eu. Maecenas malesuada nec enim sit amet mollis.</item>
+        <item>recipe 2 description Ut accumsan diam tellus, vitae porta libero bibendum eu. In non metus id sem dictum cursus sed vel nulla. Morbi id libero eu eros lacinia luctus non at erat. Aliquam non nunc ultricies, posuere nibh ut, auctor lorem. Curabitur ipsum diam, tincidunt at ultricies eu, tincidunt id nisl. Aliquam eget nibh ut elit cursus ultrices at venenatis elit. Vivamus vel velit vel metus ultricies posuere in gravida neque. Sed consectetur, eros nec bibendum consectetur, mauris metus posuere augue, at tristique velit sem vel orci. Cras molestie ullamcorper feugiat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ut orci at erat scelerisque volutpat vel id ipsum.</item>
+        <item>recipe 3 description Aliquam quis mauris ut sapien sodales eleifend. Aliquam efficitur libero eu risus faucibus bibendum. Duis elementum ultrices tortor vel euismod. Donec sed tortor arcu. Proin nunc nunc, sodales eget tellus at, maximus feugiat turpis. Fusce quis arcu in libero molestie posuere. Sed sagittis augue non velit laoreet, eget feugiat metus mattis. Quisque pretium tellus sed nunc porttitor efficitur. Mauris eu fringilla ante, nec facilisis mauris.</item>
+        <item>recipe 4 description Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque ornare pellentesque mauris, vel facilisis dolor ornare ut. Nam id arcu nibh. Nullam gravida tellus eget ipsum interdum varius. Suspendisse potenti. Sed interdum maximus nunc eu luctus. Mauris euismod lorem vitae est imperdiet ornare id eu ex. Maecenas nec ligula quis ligula pretium facilisis consequat non mauris. Curabitur nec aliquet elit. Sed lacinia consequat orci at dignissim.</item>
+    </string-array>
+</resources>

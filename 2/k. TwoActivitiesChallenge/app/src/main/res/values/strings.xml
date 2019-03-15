@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TwoActivitiesChallenge</string>
+    <string name="text_two">Text Two</string>
+    <string name="text_one">Text One</string>
+    <string name="text_three">Text Three</string>
+    <string name="passage_one">One:\nMorbi augue lorem, tempus quis gravida rutrum, volutpat a tortor. \nProin facilisis nisi eu interdum sollicitudin. Phasellus iaculis et lacus ut fermentum. Proin id lacinia nibh. Proin tincidunt elit id elit pharetra, id aliquet orci iaculis. Nulla feugiat velit dapibus enim bibendum, sed posuere libero ultricies. Vestibulum vulputate eros et est tempor semper. Nam at sapien nulla.</string>
+    <string name="passage_two">Two:\nQuisque mollis pulvinar felis. Aenean metus sapien, tincidunt in lectus nec, consequat mattis augue. \nDuis ipsum velit, bibendum quis augue quis, congue porta neque. Integer turpis velit, blandit ac fermentum ut, commodo ut justo. Proin ante sapien, facilisis et auctor sit amet, pulvinar ac ante. Vivamus vehicula at ipsum sit amet ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus.</string>
+    <string name="passage_three">Three:\nProin sed augue sit amet tortor tincidunt tincidunt nec sed quam. Aliquam feugiat pulvinar odio eget vehicula. \nDuis sodales diam non luctus placerat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed id nisl sed nibh consectetur iaculis sed in massa. Maecenas efficitur elementum tellus eget pellentesque. Aliquam ultrices bibendum lacinia.
+</string>
+</resources>

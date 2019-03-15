@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TwoActivitesLifecycleChallenge</string>
+    <string name="item">Item</string>
+    <string name="shop">SHOP</string>
+</resources>

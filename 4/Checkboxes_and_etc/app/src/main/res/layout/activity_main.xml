@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="8dp"
+    tools:context=".MainActivity"
+    tools:layout_editor_absoluteY="81dp">
+
+    <CheckBox
+        android:id="@+id/choc_syrup_checkBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="checkboxCheck"
+        android:text="@string/chocolate_syrup"
+        tools:layout_editor_absoluteX="24dp"
+        tools:layout_editor_absoluteY="24dp" />
+
+    <CheckBox
+        android:id="@+id/sprinkles_checkBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="checkboxCheck"
+        android:text="@string/sprinkles"
+        tools:layout_editor_absoluteX="24dp"
+        tools:layout_editor_absoluteY="64dp" />
+
+    <CheckBox
+        android:id="@+id/crushed_nuts_checkBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="checkboxCheck"
+        android:text="@string/crushed_nuts"
+        tools:layout_editor_absoluteX="24dp"
+        tools:layout_editor_absoluteY="104dp" />
+
+    <CheckBox
+        android:id="@+id/cherries_checkBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="checkboxCheck"
+        android:text="@string/cherries"
+        tools:layout_editor_absoluteX="24dp"
+        tools:layout_editor_absoluteY="144dp" />
+
+    <CheckBox
+        android:id="@+id/oreo_crumbles_checkBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="checkboxCheck"
+        android:text="@string/oreo_cookie_crumbles"
+        tools:layout_editor_absoluteX="24dp"
+        tools:layout_editor_absoluteY="184dp" />
+
+    <Button
+        android:id="@+id/toast_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="showToppings"
+        android:text="@string/show_toast" />
+</LinearLayout>
